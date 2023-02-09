@@ -1,9 +1,12 @@
 /*
-Enter a string and Show the occurrence of each letter
 
-Input:      mississippi missouri
-Output:     { m:2, i:6, s:6, p:2, o:1, u:1, r:1 }
+  Find the occurrence of each letter of a string
+
+  Input:      mississippi missouri
+  Output:     { m:2, i:6, s:6, p:2, o:1, u:1, r:1 }
+
 */
+
 
 
 const str = 'mississippi missouri'

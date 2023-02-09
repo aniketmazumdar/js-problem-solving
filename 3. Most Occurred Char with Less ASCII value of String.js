@@ -1,8 +1,10 @@
 /*
-Enter a string and Show the most occurred letter which is less ASCII value with occurrence
 
-Input:      aabcddeeefggghh
-Output:     e 3
+  Find the most occurred letter of a string, which is less ASCII value 
+
+  Input:      aabcddeeefggghh
+  Output:     e 3
+
 */
 
 
